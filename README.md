@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋 i'm SAI
 
 <!--
 **saimanukonda123/saimanukonda123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ About Me in 30 secs✨
 
-Here are some ideas to get you started:
+👀 I’m learning to Analyse Data and get useful insights from them.
+💉 I have an Electrical background and started transitioning into Data Analytics in 2022
+🌱 I am self-Learing Tableau
+📫 How to find me: https://www.linkedin.com/in/sai-manukonda/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡Skills💡:
+
+Python
+Mysql
+Tableau
+Microsoft Excel
+
