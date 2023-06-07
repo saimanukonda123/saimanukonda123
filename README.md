@@ -8,9 +8,13 @@
 
 💡Skills💡:
 
-* Python - numpy,pandas,EDA,Visualization (Matplotlib,Seaborn)
-* Mysql
-* Microsoft Excel
+● Python for Data Science: NumPy & Pandas
+● MYSQL: SQL Commands, Subqueries, Joins, Advanced Analytical Functions
+● Exploratory Data Analysis: Feature Engineering, Visualization Libraries: Matplotlib, Seaborn
+● Statistics: Hypothesis Testing, Z-test, t-test
+● Machine Learning: Supervised & Unsupervised Learning
+● Microsoft Excel: Pivot tables,Lookups
+● Visualization: Power BI (DAX, Power Query)
 
 📚Courses and Certifications📚
 * Data Science and Engineering | Great Learning | 2023
